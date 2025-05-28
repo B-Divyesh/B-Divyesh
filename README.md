@@ -1,7 +1,7 @@
 # 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&height=100&lines=DIVYESH+BINE;NEURAL+ARCHITECT;SYSTEM+INNOVATOR;AI+PIONEER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&height=100&lines=DIVYESH+BINE;SYSTEM+ARCHITECT;AI/ML;ENTREPRENEUR" alt="Typing SVG" />
 </div>
 
 <div align="center">
