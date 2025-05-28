@@ -1,26 +1,29 @@
 # 
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&height=100&lines=DIVYESH+BINE;NEURAL+ARCHITECT;SYSTEM+INNOVATOR;AI+PIONEER" alt="Typing SVG" />
+</div>
+
 <div align="center">
 
 ```
- ██████╗ ██╗██╗   ██╗██╗   ██╗███████╗███████╗██╗  ██╗
- ██╔══██╗██║██║   ██║╚██╗ ██╔╝██╔════╝██╔════╝██║  ██║
- ██║  ██║██║██║   ██║ ╚████╔╝ █████╗  ███████╗███████║
- ██║  ██║██║╚██╗ ██╔╝  ╚██╔╝  ██╔══╝  ╚════██║██╔══██║
- ██████╔╝██║ ╚████╔╝    ██║   ███████╗███████║██║  ██║
- ╚═════╝ ╚═╝  ╚═══╝     ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
-                                                        
-           ██████╗ ██╗███╗   ██╗███████╗              
-           ██╔══██╗██║████╗  ██║██╔════╝              
-           ██████╔╝██║██╔██╗ ██║█████╗                
-           ██╔══██╗██║██║╚██╗██║██╔══╝                
-           ██████╔╝██║██║ ╚████║███████╗              
-           ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝              
+██████╗ ██╗██╗   ██╗██╗   ██╗███████╗███████╗██╗  ██╗    ██████╗ ██╗███╗   ██╗███████╗
+██╔══██╗██║██║   ██║╚██╗ ██╔╝██╔════╝██╔════╝██║  ██║    ██╔══██╗██║████╗  ██║██╔════╝
+██║  ██║██║██║   ██║ ╚████╔╝ █████╗  ███████╗███████║    ██████╔╝██║██╔██╗ ██║█████╗  
+██║  ██║██║╚██╗ ██╔╝  ╚██╔╝  ██╔══╝  ╚════██║██╔══██║    ██╔══██╗██║██║╚██╗██║██╔══╝  
+██████╔╝██║ ╚████╔╝    ██║   ███████╗███████║██║  ██║    ██████╔╝██║██║ ╚████║███████╗
+╚═════╝ ╚═╝  ╚═══╝     ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝    ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</div>
 
-### `> Architect of Tomorrow's Computing Paradigms`
-### `> Reimagining AI Through Physics-Aware Intelligence`
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Architect+of+Tomorrow's+Computing+Paradigms;Reimagining+AI+Through+Physics-Aware+Intelligence;Building+GrahaOS+%7C+Cross-Architecture+Revolution;CEO+%26+Founder+%40+KAKI+%7C+Next-Gen+AI" alt="Typing SVG" />
 
 <img height="20" src="https://img.shields.io/badge/Status-Building%20The%20Future-00FF41?style=flat-square&labelColor=000000" />
 <img height="20" src="https://img.shields.io/badge/Focus-Next%20Gen%20AI%20&%20OS-00FF41?style=flat-square&labelColor=000000" />
@@ -30,7 +33,15 @@
 
 ---
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## `◉ NEURAL NETWORK INITIALIZED`
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+neural+pathways...;Loading+quantum+algorithms...;Compiling+future+protocols...;Ready+for+innovation..." alt="Loading Animation" />
+</div>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/src/coding.gif" />
 
@@ -87,7 +98,15 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 
 ---
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## `◉ TECH RESONANCE`
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=00FF41&center=true&vCenter=true&width=500&lines=Technologies+that+power+innovation...;Building+with+cutting-edge+tools..." alt="Tech Loading" />
+</div>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,nextjs,docker,linux,aws,azure&theme=dark" />
@@ -101,7 +120,15 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 
 ---
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## `◉ NEURAL ACTIVITY PATTERNS`
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2500&color=00FF41&center=true&vCenter=true&width=400&lines=Analyzing+code+patterns...;Mapping+neural+networks...;Computing+statistics..." alt="Stats Loading" />
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=B-Divyesh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="165" />
@@ -112,9 +139,21 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Divyesh&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&layout=compact" />
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=B-Divyesh&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
 ---
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
 ## `◉ TRANSMISSION CHANNELS`
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=00FF41&center=true&vCenter=true&width=400&lines=Establishing+secure+connections...;Opening+communication+channels..." alt="Contact Loading" />
+</div>
 
 <div align="center">
 
@@ -126,11 +165,11 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-```
-> "The future belongs to those who build it."
-```
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=3000&color=00FF41&center=true&vCenter=true&width=600&lines=The+future+belongs+to+those+who+build+it.;Compiling+tomorrow's+reality...;One+commit+at+a+time." alt="Quote Animation" />
+</div>
 
 <img height="20" src="https://komarev.com/ghpvc/?username=B-Divyesh&color=00ff41&style=flat-square&label=NEURAL+CONNECTIONS" />
 
