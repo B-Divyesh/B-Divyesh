@@ -161,7 +161,7 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 
 🔗 [`Portfolio Hub`](https://divyeshbine.com) **|** 📧 [`binedivyesh@kaki.today`](mailto:binedivyesh@kaki.today)
 
-🌐 [`KAKI HQ`](https://kaki.today) **|** 💼 [`LinkedIn Neural Net`](https://linkedin.com/in/divyeshbine)
+  🌐 [`KAKI HQ`](https://kaki.today) 
 
 ---
 
