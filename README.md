@@ -37,10 +37,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## `◉ NEURAL NETWORK INITIALIZED`
+## `◉ MAJOR STARTUP / PROJECT`
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+neural+pathways...;Loading+quantum+algorithms...;Compiling+future+protocols...;Ready+for+innovation..." alt="Loading Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=EXPERT+SYSTEMS...;AGI+MODULARITY...;Compiling+future+protocols...;Ready+for+innovation..." alt="Loading Animation" />
 </div>
 
 <img align="right" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/src/coding.gif" />
