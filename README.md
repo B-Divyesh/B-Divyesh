@@ -90,7 +90,7 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 ## `◉ TECH RESONANCE`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,rust,js,react,nextjs,docker,linux,aws&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,react,nextjs,docker,linux,aws,azure&theme=dark" />
 </div>
 
 **Core Frequencies:**
@@ -130,7 +130,6 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 
 ```
 > "The future belongs to those who build it."
-> Compiling tomorrow's reality, one commit at a time.
 ```
 
 <img height="20" src="https://komarev.com/ghpvc/?username=B-Divyesh&color=00ff41&style=flat-square&label=NEURAL+CONNECTIONS" />
