@@ -43,7 +43,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=EXPERT+SYSTEMS...;AGI+MODULARITY...;Compiling+future+protocols...;Ready+for+innovation..." alt="Loading Animation" />
 </div>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/40716ca7ac2c8f3a70695e3b2de8e1ae9c9c9ef29a32b9a86ed5b6c60b52d10f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333430383931342f70726f6772616d6d65722e676966" />
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
 
 **Currently channeling computational creativity into:**
 
