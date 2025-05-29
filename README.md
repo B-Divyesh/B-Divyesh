@@ -170,6 +170,6 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=3000&color=00FF41&center=true&vCenter=true&width=600&lines=The+future+belongs+to+those+who+build+it.;Compiling+tomorrow's+reality...;One+commit+at+a+time." alt="Quote Animation" />
 </div>
 
-<img height="20" src="https://komarev.com/ghpvc/?username=B-Divyesh&color=00ff41&style=flat-square&label=NEURAL+CONNECTIONS" />
+<img height="20" src="https://komarev.com/ghpvc/?username=B-Divyesh&color=00ff41&style=flat-square&label=PROJECTS" />
 
 </div>
