@@ -23,7 +23,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=AGI MODULAR HYPOTHESIS based WORK;Architect+of+Tomorrow's+Computing+Paradigms;Reimagining+AI+Through+Physics-Aware+Intelligence;Building+GrahaOS+%7C+Cross-Architecture+Revolution;CEO+%26+Founder+%40+KAKI+%7C+Next-Gen+AI" alt="Typing SVG" />
 
 <img height="20" src="https://img.shields.io/badge/Status-Building%20The%20Future-00FF41?style=flat-square&labelColor=000000" />
 <img height="20" src="https://img.shields.io/badge/Focus-Next%20Gen%20AI%20&%20OS-00FF41?style=flat-square&labelColor=000000" />
