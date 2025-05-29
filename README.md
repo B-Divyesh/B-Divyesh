@@ -24,9 +24,7 @@
 <div align="center">
 
 
-<img height="20" src="https://img.shields.io/badge/Status-Building%20The%20Future-00FF41?style=flat-square&labelColor=000000" />
-<img height="20" src="https://img.shields.io/badge/Focus-Next%20Gen%20AI%20&%20OS-00FF41?style=flat-square&labelColor=000000" />
-<img height="20" src="https://img.shields.io/badge/Mindset-First%20Principles-00FF41?style=flat-square&labelColor=000000" />
+
 
 </div>
 
