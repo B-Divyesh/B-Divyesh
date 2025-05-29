@@ -124,7 +124,7 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## `◉ NEURAL ACTIVITY PATTERNS`
+## `◉ ACTIVITY PATTERNS`
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2500&color=00FF41&center=true&vCenter=true&width=400&lines=Analyzing+code+patterns...;Mapping+neural+networks...;Computing+statistics..." alt="Stats Loading" />
