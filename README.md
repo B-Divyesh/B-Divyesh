@@ -68,16 +68,16 @@ impact: Domain-specific intelligence where generic models fail
 
 🔗 **Experience KAKI**: [`kaki.today`](https://kaki.today) | [`Try BOOMI`](https://boomi.kaki.today)
 
-### 🌐 **GrahaOS** | *Computing Without Boundaries*
+### 🌐 **GrahaOS** | *The True AI OS*
 
 ```yaml
-vision: "One OS, Every Architecture, Zero Compromise"
-innovation: Real-time binary translation layer
-supported: x86 ↔ ARM ↔ RISC-V ↔ Future architectures
-philosophy: Privacy-first, performance-optimized, infinitely modular
+vision: "A protocol that simplifies integrating AI into an OS, (OSCP)"
+innovation: Dedicated AI syscalls and macros for bulk remote procedure execution while eliminating security concerns
+supported: x86_64 Architecture
+philosophy: Perform actions as you think them.
 ```
 
-**The Future of Computing is Architecture-Agnostic.** Run any binary on any processor. Locally. Instantly. No cloud dependencies, no performance penalties.
+**The Future of Computing is AI integration** An AI that lives on the Kernel, no more screen capture, no more context prompting, it knows more about the system than you know, just tell it what you want!
 
 ---
 
@@ -121,7 +121,7 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## `◉ ACTIVITY PATTERNS`
+## `◉ ACTIVITY`
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2500&color=00FF41&center=true&vCenter=true&width=400&lines=Analyzing+code+patterns...;Mapping+neural+networks...;Computing+statistics..." alt="Stats Loading" />
@@ -146,7 +146,7 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## `◉ TRANSMISSION CHANNELS`
+## `◉ CONNECT WITH ME`
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=2000&color=00FF41&center=true&vCenter=true&width=400&lines=Establishing+secure+connections...;Opening+communication+channels..." alt="Contact Loading" />
@@ -154,7 +154,7 @@ philosophy: Privacy-first, performance-optimized, infinitely modular
 
 <div align="center">
 
-**Secure Communication Links:**
+**Communication Links:**
 
 🔗 [`Portfolio Hub`](https://divyeshbine.com) **|** 📧 [`binedivyesh@kaki.today`](mailto:binedivyesh@kaki.today)
 
