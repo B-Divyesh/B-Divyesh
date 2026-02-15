@@ -59,6 +59,10 @@ Microsoft Startup Founder · Microsoft Student Ambassador · 3× National Hackat
 
 <details>
 <summary>Stats</summary>
+
 <br>
-  [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/B-Divyesh?cardType=level-alternate&theme=github-dark&fontFamily=Comfortaa&preferLogin=false)](https://git.io/awesome-stats-card)
+<p>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/B-Divyesh?cardType=level-alternate&theme=github-dark&fontFamily=Comfortaa&preferLogin=false" height="160" />
+
+</p>
 </details>
