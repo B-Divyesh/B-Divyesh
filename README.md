@@ -60,8 +60,5 @@ Microsoft Startup Founder · Microsoft Student Ambassador · 3× National Hackat
 <details>
 <summary>Stats</summary>
 <br>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=B-Divyesh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Divyesh&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact" height="160" />
-</p>
+  [![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/B-Divyesh?cardType=level-alternate&theme=github-dark&fontFamily=Comfortaa&preferLogin=false)](https://git.io/awesome-stats-card)
 </details>
